@@ -1,0 +1,3 @@
+﻿  MineClassic.c
+C:\Users\trieu\source\repos\HelloC\MineClassic\MineClassic.c(81,12): warning C4013: 'time' undefined; assuming extern returning int
+  MineClassic.vcxproj -> C:\Users\trieu\source\repos\HelloC\Debug\MineClassic.exe

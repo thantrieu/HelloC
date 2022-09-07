@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="hello.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="addTwoNumbers.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="variables.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DataTypes.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="operators.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Conditions.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Switch.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ForEx1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ForEx2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="WhileEx1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DoWhileEx1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FilledRectangle.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HollowRectangle.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Sum3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FirstNumberDivBy5.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="user_function.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="math_functions.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="test_func_prototype.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="reference.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="identifer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="casino_game.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="factorial.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="fibonacci.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="array.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="array_parameter.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="pseudocode.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sort_array.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="search_array.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="twod_array.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="arr_pointer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_reference.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="function_pointers.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="twod_dynamic_allocation.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="const_keyword.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="dynamic_allocation.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="character_strings.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lesson35.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lesson36.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lesson37.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lesson38.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lesson39.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lesson40.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lesson41.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lesson42.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lesson43.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lesson44.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lesson45.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lesson46.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="tam_giac.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="so doi xung.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Bai41.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Test82.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Sp_2022_7.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

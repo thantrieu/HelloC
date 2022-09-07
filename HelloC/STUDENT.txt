@@ -1,0 +1,30 @@
+B25DCCN200
+Tran Uyen Linh
+Ha Noi
+20
+3.75
+B25DCCN205
+Nguyen Thanh Tung
+Da Nang
+20
+3.15
+B25DCCN207
+Tran Uyen Linh
+Ha Noi
+20
+3.75
+B25DCCN205
+Nguyen Thanh Tung
+Da Nang
+20
+3.15
+B25DCCN203
+Tran Uyen Linh
+Ha Noi
+20
+3.75
+B25DCCN209
+Nguyen Thanh Tung
+Da Nang
+20
+3.15
